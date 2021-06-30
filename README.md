@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ivanborisof
+- 👀 I’m interested in development of android applications and python programming
+- 🌱 I’m currently learning Java/Kotlin, Flutter, Dart, Python
+- 💞️ I’m looking to collaborate with no one
+- 📫 How to reach me — ivanborisovdevelopment@gmail.com
